@@ -1,2 +1,0 @@
-# DSWluisContreras
-Trabajo UNAD
