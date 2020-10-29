@@ -32,3 +32,23 @@ body{
     font-family:sans-serif;
     text-decoration: none;
   }
+  .menu li a:hover{
+    color: #50B748;
+    transition: all .3s;
+  }
+.submenu{
+  position: absolute;
+  width: 130%;
+  display: none;
+   }
+.submenu li a{
+  display: block;
+  padding: 15px;
+  color: #fff;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+.menu li:hover .submenu{
+  display: block;
+
+}
