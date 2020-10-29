@@ -38,6 +38,7 @@ body{
   }
 .submenu{
   position: absolute;
+  background: #333333;
   width: 130%;
   display: none;
    }
