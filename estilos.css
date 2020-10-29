@@ -34,8 +34,8 @@ body{
   }
   .menu li a:hover{
     color: #50B748;
-    transition: all .3s;
-  }
+    transition: all 3s;
+    }
 .submenu{
   position: absolute;
   background: #333333;
