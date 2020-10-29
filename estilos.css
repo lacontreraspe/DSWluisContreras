@@ -18,3 +18,17 @@ body{
   margin: 30px auto;
   background: #fff;
 }
+.navegacion ul{
+  list-style: none;
+  }
+  .menu > li{
+    position: relative;
+    display: inline-block;
+  }
+  .menu > li > a{
+    display: block;
+    padding: 15px 20px;
+    color:  #43C7F4;
+    font-family:sans-serif;
+    text-decoration: none;
+  }
