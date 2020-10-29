@@ -3,3 +3,18 @@ h1{
   font-family: Arial;
   text-align:center;
 }
+*{
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body{
+  background: #F0B429;
+}
+.navegacion{
+  width: 1000px;
+  margin: 30px auto;
+  background: #fff;
+}
