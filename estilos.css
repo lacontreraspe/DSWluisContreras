@@ -3,6 +3,10 @@ h1{
   font-family: Arial;
   text-align:center;
 }
+h2{
+  font-family: Arial;
+  text-align: center;
+}
 *{
   margin: 0;
   padding: 0;
